@@ -86,10 +86,16 @@
 # print('substituir vogais'.translate(tabela))
 
 # ******************LISTAS*************
-# bicycles = ['trek', 'cannondale', 'redline', 'specialized']
-# bicycles[0] = 'bmx'
-# bicycles.append('Harley Davidson')
-# bicycles.insert(0, 'ducati')
-#
-# print(bicycles)
+bicycles = ['trek', 'cannondale', 'redline', 'specialized']
+bicycles[0] = 'bmx'
+bicycles.append('Harley Davidson') # adiciona no final da lista
+bicycles.insert(0, 'ducati') # insere um elemento na lista
+
+print(bicycles)
+
+del bicycles[0] # deleta o elemento passado da lista
+print(bicycles)
+
+print(bicycles.pop())
+print(bicycles)
 
