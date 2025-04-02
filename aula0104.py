@@ -85,3 +85,11 @@
 # tabela = str.maketrans('aeiou', '12345')
 # print('substituir vogais'.translate(tabela))
 
+# ******************LISTAS*************
+# bicycles = ['trek', 'cannondale', 'redline', 'specialized']
+# bicycles[0] = 'bmx'
+# bicycles.append('Harley Davidson')
+# bicycles.insert(0, 'ducati')
+#
+# print(bicycles)
+
