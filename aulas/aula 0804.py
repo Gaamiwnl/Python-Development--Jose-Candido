@@ -39,10 +39,10 @@
 # QUINTO EXERCÍCIO
 def verificarIntervalo (a):
     if 10 < a < 50:
-        print("esta na porra do intervalo")
+        print("esta no intervalo")
 
     else:
-        print("nao esta na porra do intervalo")
+        print("nao esta no intervalo")
 
 n1 = int(input('digite um numero: '))
 verificarIntervalo(n1)
