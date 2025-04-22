@@ -37,13 +37,14 @@
 
 
 # QUINTO EXERCÍCIO
-def verificarIntervalo (a):
-    if 10 < a < 50:
-        print("esta no intervalo")
+# def verificarIntervalo (a):
+#     if 10 < a < 50:
+#         print("esta no intervalo")
+#
+#     else:
+#         print("nao esta no intervalo")
+#
+# n1 = int(input('digite um numero: '))
+# verificarIntervalo(n1)
 
-    else:
-        print("nao esta no intervalo")
-
-n1 = int(input('digite um numero: '))
-verificarIntervalo(n1)
 
